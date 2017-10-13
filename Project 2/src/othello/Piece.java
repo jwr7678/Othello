@@ -1,4 +1,4 @@
-package Othello;
+package othello;
 
 public class Piece {
 
